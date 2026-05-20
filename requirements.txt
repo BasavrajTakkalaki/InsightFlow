@@ -21,3 +21,4 @@ google-auth
 google-auth-oauthlib
 python-dotenv
 streamlit-google-auth
+openpyxl
